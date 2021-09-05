@@ -1,0 +1,12 @@
+body{
+  text-align:center;
+  background-color:pink;
+}
+#MHH{
+  border-radius:50%;
+  width:150px;
+    height: 10px;
+}
+#boi{
+   background:linear-gradient( #E1BEE7 0%, #90caf9 100%);
+}
